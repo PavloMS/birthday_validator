@@ -12,3 +12,7 @@ pkg/*
 spec/dummy/tmp/*
 spec/dummy/log/*.log
 /.idea/misc.xml
+/.idea/birthday_validator.iml
+/.idea/modules.xml
+/.idea/vcs.xml
+/.idea/.gitignore
