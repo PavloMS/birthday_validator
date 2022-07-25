@@ -2,7 +2,7 @@ require File.expand_path('lib/birthday_validator', __dir__)
 
 Gem::Specification.new do |spec|
   spec.name                  = 'birthday_validator'
-  spec.version               = BirthdayValidator::VERSION
+  spec.version               = '1.0.0' #BirthdayValidator::VERSION
   spec.authors               = ['Pavmis']
   spec.email                 = ['email@example.com']
   spec.summary               = 'Validator for birthday '
